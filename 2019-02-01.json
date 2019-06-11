@@ -1,0 +1,6 @@
+{
+    "squat": [[2, 5, 35], [2, 5, 40]],
+    "deadlift": [4, 5, 70],
+    "assisted pull up": [3, 5, 122],
+    "assisted dips": [3, 5, 122],
+}
