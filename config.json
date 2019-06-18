@@ -1,0 +1,12 @@
+{
+    "barbell": {
+	exercises: {
+	    "squat",
+	    "dead lift", "over hand dead lift",
+	    "bench press", "incline bench press", "decline bench press",
+	    "barbell row",
+	    "press",
+	},
+	weight: 45,
+    },
+}
