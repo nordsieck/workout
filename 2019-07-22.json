@@ -3,4 +3,5 @@
     "pause squat": [4, 6, 70],
     "bench press": [5, 5, 47.5],
     "pull ups": {6, 6, 6, 4, 4},
+    "_comment": "pause squats are working well - I feel much stronger at the bottom and can get depth well on my vanila squats",
 }
